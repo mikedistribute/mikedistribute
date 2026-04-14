@@ -29,14 +29,15 @@
 - **Documenting the journey** — Vlogging the solo founder experience on [YouTube](https://www.youtube.com/@bmikdaam) — first revenue, pivots, all of it.
 - **Building in public** — Sharing the real numbers and lessons on [X/Twitter](https://x.com/bmikdaam).
 
-## Worked On
-
+## Collaborative Work
 - ⚽ **[BALLER](https://baller-ai.vercel.app/)** — Foundational AI for football analytics. Trains on lineup & interaction data to model every player's contextual identity — teammates, opponents, roles, tactics.
 - 🎯 **[SquadGen](https://baller-squadgen.vercel.app/)** — From a few player names to a coherent squad, instantly. Built on top of BALLER's contextual embeddings.
 - 📊 **[Goal Contribution](https://goal-contribution.vercel.app/en)** — Beyond goals & assists: a metric that quantifies the true impact of every player in a goal-scoring sequence, across Europe's top leagues.
 
 ## Legacy Work
 
+- 🎙️ **[SageVox](https://github.com/mikedistribute/sagevox)** — Voice AI agent for interactive audiobooks. Ask questions about your book without spoilers. FastAPI + LiveKit + Gemini TTS + SwiftUI iOS.
+- 🤖 **[Outgoing Agent](https://github.com/mikedistribute/outgoing-agent)** — AI agent for personalized event discovery based on user profiles. Intent matching, TypeScript + Python, deployed.
 - 🏎️ **[Wayzze](https://wayzze.com)** — Peer-to-peer vehicle rental platform for West Africa. Airbnb for cars. (closed source)
 - 🏆 **[KONQR](https://apps.apple.com/us/app/konqr/id6755136728)** — GPS territory-conquest running app. Did for running what Pokémon GO did for walking. (closed source)
 - ✅ **[Realicheck AI](https://apps.apple.com/us/app/realicheck-ai-detect-ai-media/id6756508177)** — AI video & photo detector. Spot AI-generated media. (closed source)
