@@ -1,6 +1,6 @@
 # Hi, I'm Mike 👋
 
-📍 **Paris, France** | 📱 **Solo Founder** | 🏃 **Runner**
+📍 **Paris, France** | 💻 **Engineer** | 🏃 **Runner**
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -16,20 +16,22 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building apps that bring value. Solo founder shipping AI consumer agents, fast, in public.
+> Building apps that bring value. Engineer shipping AI consumer agents, fast, in public.
 
 ## Current Projects
 
 - 🏃 **[Pulse](https://apps.apple.com/us/app/pulse-running-friends/id6759053678)** — Find nearby running groups with live planned sessions. The app that gets runners off their couch and onto the road, together. ([pulse-running.com](https://pulse-running.com))
+- 🤖 **[Adam](https://github.com/mikedistribute/adam-agent)** — Personal AI agent for iMessage, RCS, and SMS. Built with Linq, Claude, OpenAI, Convex, and Railway. Supports conversational chat, voice memo transcription, image generation, live web search, group chat actions, and scheduled outbound messages.
 
 ## What I'm Doing
 
-- **Shipping as a solo founder** — Design, code, marketing, support. All of it.
+- **Building products end to end** — Product, design, engineering, growth, support.
 - **Growing Pulse** — Reddit, Instagram Reels, Strava Clubs, Parkrun, running stores. Testing every channel.
-- **Documenting the journey** — Vlogging the solo founder experience on [YouTube](https://www.youtube.com/@bmikdaam) — first revenue, pivots, all of it.
+- **Documenting the journey** — Vlogging the builder experience on [YouTube](https://www.youtube.com/@bmikdaam) — first revenue, pivots, all of it.
 - **Building in public** — Sharing the real numbers and lessons on [X/Twitter](https://x.com/bmikdaam).
 
 ## Collaborative Work
+
 - ⚽ **[BALLER](https://baller-ai.vercel.app/)** — Foundational AI for football analytics. Trains on lineup & interaction data to model every player's contextual identity — teammates, opponents, roles, tactics.
 - 🎯 **[SquadGen](https://baller-squadgen.vercel.app/)** — From a few player names to a coherent squad, instantly. Built on top of BALLER's contextual embeddings.
 - 📊 **[Goal Contribution](https://goal-contribution.vercel.app/en)** — Beyond goals & assists: a metric that quantifies the true impact of every player in a goal-scoring sequence, across Europe's top leagues.
@@ -64,7 +66,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Founder first, developer second, marketer third
+- Builder and engineer
 - Based in Paris 🗼
 - Engineering master's degree
 - Runner 🏃
