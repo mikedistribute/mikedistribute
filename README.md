@@ -21,7 +21,6 @@
 ## Current Projects
 
 - 🏃 **[Pulse](https://apps.apple.com/us/app/pulse-running-friends/id6759053678)** — Find nearby running groups with live planned sessions. The app that gets runners off their couch and onto the road, together. ([pulse-running.com](https://pulse-running.com))
-- 🤖 **[Adam](https://github.com/mikedistribute/adam-agent)** — Personal AI agent for iMessage, RCS, and SMS. Built with Linq, Claude, OpenAI, Convex, and Railway. Supports conversational chat, voice memo transcription, image generation, live web search, group chat actions, and scheduled outbound messages.
 - 🐱 **[Kitty](https://github.com/mikedistribute/kitty)** — Agent-first phone experience for Android. Summon by wake word; Kitty sees the screen via Accessibility, plans with Claude, drives the phone, and talks back with realtime voice (gpt-realtime + ElevenLabs through a Cloudflare Worker). Sideload [APK available](https://github.com/mikedistribute/kitty/releases/latest).
 
 ## What I'm Doing
@@ -39,6 +38,7 @@
 
 ## Legacy Work
 
+- 🤖 **[Adam](https://github.com/mikedistribute/adam-agent)** — Personal AI agent for iMessage, RCS, and SMS. Built with Linq, Claude, OpenAI, Convex, and Railway. Supports conversational chat, voice memo transcription, image generation, live web search, group chat actions, and scheduled outbound messages.
 - 🎙️ **[SageVox](https://github.com/mikedistribute/sagevox)** — Voice AI agent for interactive audiobooks. Ask questions about your book without spoilers. FastAPI + LiveKit + Gemini TTS + SwiftUI iOS.
 - 🤖 **[Outgoing Agent](https://github.com/mikedistribute/outgoing-agent)** — AI agent for personalized event discovery based on user profiles. Intent matching, TypeScript + Python, deployed.
 - 🏎️ **[Wayzze](https://wayzze.com)** — Peer-to-peer vehicle rental platform for West Africa. Airbnb for cars. (closed source)
